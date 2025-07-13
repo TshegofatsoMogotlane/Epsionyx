@@ -94,8 +94,7 @@ EPSIONYX is a personal mission project, but feel free to fork, star, or contact 
 
 **Tshegofatso Mogotlane**  
 🇿🇦 South Africa  
-📧 [Your Email]  
-🔗 [LinkedIn | Portfolio | Devpost – optional]
+📧 tshegofatsom177@gmail.com  
 
 ---
 
